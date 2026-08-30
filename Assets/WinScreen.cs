@@ -12,6 +12,7 @@ public class WinScreen : MonoBehaviour
         winPanel.SetActive(false);
     }
 
+    // Functions to display correspeonding text to winner
     public void LeftWin()
     {
         winText.text = "Left Wins!";
