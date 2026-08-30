@@ -1,1 +1,7 @@
-# Pong2
+## Welcome
+Thanks for checking out my project! In order to play it you will need to follow the instructions below.
+## Clone Repository
+To get the game you must clone the git repository and build the game locally. To do this you need some kind of git client. This Readme will be assuming Visual Studio, you may need to search how your specific client works otherwise. Hover over the git menu at the top of the VS window, click "Clone Repository" and use this repo's link: https://github.com/Dawson7218/CS-3383-Pong. Then select the directory of your choice for where the reposistory will go, make sure you remember where this is.
+## Open in Unity and Build
+Open the Unity Hub (or install it if you don't already have it) and click "add" in the top right of the window. Then select from disk and pick the directory you cloned the repository to earlier. With this set up you should now be able to open the unity project and it's associated source code in Visual Studio. 
+Lastly, in the unity editor, click "Build and Run." If you are on an x64 Windows platform the next step should be automatic, if you are on a different operating system or hardware however you may have to configure a build profile yourself. This is straightforward as this is a basic project, simply select your hardware and operating system, the only additional step is adding "Game" to the Scene List menu on the build profile configuration screen. After this the game should be ready to build and be run, enjoy!
